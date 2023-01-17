@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Updated SQL Query Plot Code (#8120)
