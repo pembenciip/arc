@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
