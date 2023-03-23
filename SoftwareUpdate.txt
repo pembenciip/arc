@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
