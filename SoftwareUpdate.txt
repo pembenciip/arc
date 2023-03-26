@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Explorer with LanceDB, Actions and Docs updates (#7487)
