@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
