@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Move Explorer tests to scheduled CI (#8305)
