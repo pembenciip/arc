@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Python refactorings and simplifications (#7549)
