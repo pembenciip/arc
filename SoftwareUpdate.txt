@@ -1,1 +1,1 @@
-Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
+Locked Tabs - Adds a lock switch to every tab inside the tab switcher that, when enabled, prevents the specific tab from being closed until the switch is disabled again
