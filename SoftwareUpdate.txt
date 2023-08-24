@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
