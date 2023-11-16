@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+OBB: Fix when training on zip data (#8680)
