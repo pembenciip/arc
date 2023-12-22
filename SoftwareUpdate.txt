@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
