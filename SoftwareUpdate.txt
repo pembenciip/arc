@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add dota8.yaml and O tests (#7394)
