@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+New test for labels and crops (#8861)
