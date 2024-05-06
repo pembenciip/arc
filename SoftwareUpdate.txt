@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
